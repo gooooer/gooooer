@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://gooooer.github.io/gooooer//sitemap.xml
+User-agent: * Disallow: Sitemap: https://gooooer.github.io/sitemap.xml
